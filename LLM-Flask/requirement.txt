@@ -1,7 +1,10 @@
 flask
 flask-cors
+flask_cors
 langchain
-langchain-openai
+langchain_community
+langchain_openai
+langchain_core
 chromadb
 pymongo
 python-dotenv
